@@ -13,3 +13,9 @@ End-to-end pipeline from raw Excel → cleaned data → PostgreSQL → dashboard
 - Data transformation
 - Star schema design
 - Interactive Power BI dashboard
+
+ 
+ ## Power BI Dashboard
+
+Download here:
+https://your-google-drive-link
